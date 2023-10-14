@@ -1,4 +1,4 @@
-<h1 align="left">[I am Nigel Haim N. Sebastian]</h1>
+<h1 align="left" style="background-color:orange;">[I am Nigel Haim N. Sebastian]</h1>
 
 ###
 
@@ -65,8 +65,6 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   
   </br></br>
-  
- ![snake gif](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
