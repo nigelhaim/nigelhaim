@@ -1,4 +1,8 @@
-<h1 align="left" style="background-color:orange;">[I am Nigel Haim N. Sebastian]</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vLeft=true&width=500&height=70&duration=4000&lines=[Nigel+Haim+Sebastian];" />
+  </a>
+</h1>
 
 ###
 
