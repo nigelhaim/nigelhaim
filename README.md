@@ -3,8 +3,6 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nigelhaim.nigelhaim&left_color=midnightblue&right_color=orangered&left_text=Hello world"  />
-</div>
 
 ###
 
