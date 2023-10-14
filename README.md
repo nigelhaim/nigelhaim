@@ -65,11 +65,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-
-</div>
-<div> 
   </br></br>
   ![Snake animation](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+
 
