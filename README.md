@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 
-  </br></br>
-  ![Snake animation](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.svg)
 </div>
+</br></br>
+![Snake animation](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.svg)
 
