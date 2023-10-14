@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <button type="button" onclick="alert('copied username');">
+  <button type="button" onclick="alert('copied username')">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </button>
   <a href="https://www.facebook.com/NigelNSebastian/" target="_blank">
