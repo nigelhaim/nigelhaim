@@ -71,7 +71,7 @@
   </br></br>
 </div>
 
-![snake gif](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.gif)
+![snake gif]([https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.gif](https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.svg)https://github.com/nigelhaim/nigelhaim/blob/output/github-contribution-grid-snake.svg)
 
 
 
