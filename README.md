@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nigelhaim&show_icons=true&locale=en&hide_title=true&hide_rank=false&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="nigelhaim" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=nigelhaim&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nigelhaim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
